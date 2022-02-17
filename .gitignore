@@ -5,3 +5,5 @@ node_modules/
 target/
 test/
 kolyakaLesson/
+data/
+pom.xml
